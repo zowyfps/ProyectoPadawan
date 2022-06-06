@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/pelea.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 750px;
+    font-family: 'Staatliches', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
